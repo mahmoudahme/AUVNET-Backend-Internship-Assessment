@@ -73,7 +73,7 @@ This is a simple E-Commerce backend application built for the AUVNET backend int
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AUVNET-Backend-Internship-Assessment.git
+git clone https://github.com/mahmoudahme/AUVNET-Backend-Internship-Assessment.git
 cd AUVNET-Backend-Internship-Assessment
 
 
